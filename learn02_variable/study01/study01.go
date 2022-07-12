@@ -56,6 +56,9 @@ func main() {
 	testMultiVar()
 }
 
+/**
+全局变量
+*/
 var (
 	a = "hello"
 	b = "world"

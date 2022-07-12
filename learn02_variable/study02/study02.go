@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 /**
-【类型】
+【变量类型】
 
 布尔型 bool
 	-长度 1字节
