@@ -13,7 +13,7 @@ import (
 )
 
 func main() {
-	//rsa 密钥文件产生
+	//rsasign 密钥文件产生
 	fmt.Println("-------------------------------获取RSA公私钥-----------------------------------------")
 	prvKey, pubKey := GenRsaKey()
 	fmt.Println(string(prvKey))
